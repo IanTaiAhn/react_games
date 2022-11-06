@@ -7,3 +7,4 @@ However I'm commiting to a different private repo.
 Once the project is finished I'll clone the repo here.
 
 Added more backend features, and almost have hangman completed.
+After reading the React documentation several times, and browsing StackOverFlow for longer, I finally figured out how to use the "useState" in React to get my Hangman app working. It felt great! React is actually pretty neato.

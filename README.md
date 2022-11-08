@@ -10,3 +10,4 @@ Added more backend features, and almost have hangman completed.
 After reading the React documentation several times, and browsing StackOverFlow for longer, I finally figured out how to use the "useState" in React to get my Hangman app working. It felt great! React is actually pretty neato.
 
 We have done the thing! All of the code everyone has written is now compiled into one branch. Very cool.
+Made my hangman app not as gross.

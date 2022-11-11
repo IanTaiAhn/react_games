@@ -11,3 +11,6 @@ After reading the React documentation several times, and browsing StackOverFlow 
 
 We have done the thing! All of the code everyone has written is now compiled into one branch. Very cool.
 Made my hangman app not as gross.
+
+Hey we made some great progess with the login screen checking credentials! So now I have to pass in an array instead, and
+go through all of databases usernames, and passwords to find if the user is a valid user. Nice!

@@ -14,3 +14,5 @@ Made my hangman app not as gross.
 
 Hey we made some great progess with the login screen checking credentials! So now I have to pass in an array instead, and
 go through all of databases usernames, and passwords to find if the user is a valid user. Nice!
+
+Python is killer. Haha it's rough trying to get these modules organized. I will figure it out though.

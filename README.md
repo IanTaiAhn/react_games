@@ -16,3 +16,4 @@ Hey we made some great progess with the login screen checking credentials! So no
 go through all of databases usernames, and passwords to find if the user is a valid user. Nice!
 
 Python is killer. Haha it's rough trying to get these modules organized. I will figure it out though.
+Hey good job on getting the front end nav bar figured out!

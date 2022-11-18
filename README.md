@@ -19,3 +19,5 @@ Python is killer. Haha it's rough trying to get these modules organized. I will 
 Hey good job on getting the front end nav bar figured out!
 
 The project is coming along! used the localStorage to have data persistence, and really cleaned up the site.
+
+Added a temp hangman table, since I don't like how I'm doing it atm.

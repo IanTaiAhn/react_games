@@ -22,3 +22,6 @@ The project is coming along! used the localStorage to have data persistence, and
 
 Added a temp hangman table, since I don't like how I'm doing it atm.
 Cleaned up the site a bit, and managed Dallin and my code combined.
+
+Added a leaderboard, aka it replaced the server page I had to test all of the backend connections.
+I styled the site a bit, and overall am getting ready to have a first final draft.

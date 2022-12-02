@@ -25,3 +25,5 @@ Cleaned up the site a bit, and managed Dallin and my code combined.
 
 Added a leaderboard, aka it replaced the server page I had to test all of the backend connections.
 I styled the site a bit, and overall am getting ready to have a first final draft.
+
+Styled the heck out of the website, however I'm willing to bet something broke because CSS is like that.

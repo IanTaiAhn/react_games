@@ -29,3 +29,6 @@ I styled the site a bit, and overall am getting ready to have a first final draf
 Styled the heck out of the website, however I'm willing to bet something broke because CSS is like that.
 
 Fixed a bug.
+
+I forgot to say that this is over, and done with now.
+Good stuff myself. Pat yourself on the back man.

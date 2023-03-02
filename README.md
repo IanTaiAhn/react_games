@@ -37,3 +37,5 @@ This is to track my progress on the Flutter project.
 Adding class models to better organize our data.
 
 crayz.
+
+We have learned some stuff now. Read a whole lot, and we know how to recover data/restore it.

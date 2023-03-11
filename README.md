@@ -40,3 +40,4 @@ crayz.
 
 We have learned some stuff now. Read a whole lot, and we know how to recover data/restore it.
 GOODSTUFF man!!
+I finally got the delete functionality going. Very nice.

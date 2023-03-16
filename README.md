@@ -46,3 +46,5 @@ We now auto create a User with an Id that we can use to look up the user and acc
 I think we are very close to having a legit app here....
 
 Yah I'm straight killing it rn! Yee haw man its ttooooo eaassyy! Haha nah its not, but its mentally stimulating/fun.
+Okay. So we can get contacts from an android phones as long as the permissions are set up correctly.
+Next I'm going to create some good and efficient crud that allows us to create users based off of the contact we select.

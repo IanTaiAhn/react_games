@@ -51,3 +51,4 @@ Next I'm going to create some good and efficient crud that allows us to create u
 
 I've gotten the structure figured out somewhat. It's honestly going quite well!
 I'm proud of the progress I've made and Flutter is actually kind of dope.
+I'm a good boi. heheeheh.

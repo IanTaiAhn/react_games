@@ -54,3 +54,4 @@ I'm proud of the progress I've made and Flutter is actually kind of dope.
 I'm a good boi. heheeheh.
 
 The text messages are working off of my phone now. My next step is to implement it so that a user may set up their daily/weekly/monthly texts in their account.
+Made good progress on the Flutter app today.
